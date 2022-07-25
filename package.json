@@ -1,0 +1,23 @@
+{
+  "name": "screeps",
+  "version": "1.0.0",
+  "description": "也不知道这个游戏我会坚持玩多久，先记录一些吧",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bToTd/Screeps.git"
+  },
+  "author": "btotd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bToTd/Screeps/issues"
+  },
+  "homepage": "https://github.com/bToTd/Screeps#readme",
+  "dependencies": {
+    "@types/lodash": "^3.10.1",
+    "@types/screeps": "^3.3.0"
+  }
+}
